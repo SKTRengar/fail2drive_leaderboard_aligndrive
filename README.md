@@ -6,7 +6,7 @@
 
 ## Contributing
 
-Want to add your model? See [CONTRIBUTING.md](CONTRIBUTING.md).
+Want to add your model? See our [Contributing Guidelines](https://github.com/SimonGer/fail2drive_leaderboard?tab=contributing-ov-file).
 
 ## About Fail2Drive
 
