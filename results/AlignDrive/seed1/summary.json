@@ -1,0 +1,392 @@
+{
+    "driving score": 71.1,
+    "success rate": 0.715,
+    "eval num": 200,
+    "fail2drive": {
+        "overall": {
+            "DS": 71.1,
+            "Success": 71.5,
+            "HM": 71.3
+        },
+        "splits": {
+            "Base": {
+                "DS": 76.2,
+                "Success": 84.0,
+                "HM": 79.9,
+                "Count": 100
+            },
+            "Generalization": {
+                "DS": 65.9,
+                "Success": 59.0,
+                "HM": 62.3,
+                "Count": 100
+            }
+        },
+        "scenarios": [
+            {
+                "Scenario": "Wall",
+                "Class": "Behavior",
+                "Base": {
+                    "DS": 95.1,
+                    "Success": 100.0,
+                    "HM": 97.5,
+                    "Count": 5
+                },
+                "Generalization": {
+                    "DS": 57.3,
+                    "Success": 0.0,
+                    "HM": 0.0,
+                    "Count": 5
+                },
+                "Gen HM Rel %": -100.0
+            },
+            {
+                "Scenario": "FullyBlocked",
+                "Class": "Behavior",
+                "Base": {
+                    "DS": 69.2,
+                    "Success": 60.0,
+                    "HM": 64.3,
+                    "Count": 5
+                },
+                "Generalization": {
+                    "DS": 44.9,
+                    "Success": 40.0,
+                    "HM": 42.3,
+                    "Count": 5
+                },
+                "Gen HM Rel %": -34.2
+            },
+            {
+                "Scenario": "PedestriansOnRoad",
+                "Class": "Behavior",
+                "Base": {
+                    "DS": 91.9,
+                    "Success": 100.0,
+                    "HM": 95.8,
+                    "Count": 5
+                },
+                "Generalization": {
+                    "DS": 90.5,
+                    "Success": 100.0,
+                    "HM": 95.0,
+                    "Count": 5
+                },
+                "Gen HM Rel %": -0.8
+            },
+            {
+                "Scenario": "ConstructionPedestrian",
+                "Class": "Behavior",
+                "Base": {
+                    "DS": 53.6,
+                    "Success": 60.0,
+                    "HM": 56.6,
+                    "Count": 5
+                },
+                "Generalization": {
+                    "DS": 58.8,
+                    "Success": 60.0,
+                    "HM": 59.4,
+                    "Count": 5
+                },
+                "Gen HM Rel %": 4.9
+            },
+            {
+                "Scenario": "BadParking",
+                "Class": "Visual-lat",
+                "Base": {
+                    "DS": 90.0,
+                    "Success": 100.0,
+                    "HM": 94.8,
+                    "Count": 10
+                },
+                "Generalization": {
+                    "DS": 54.2,
+                    "Success": 60.0,
+                    "HM": 56.9,
+                    "Count": 10
+                },
+                "Gen HM Rel %": -40.0
+            },
+            {
+                "Scenario": "ConstructionPermutations",
+                "Class": "Visual-lat",
+                "Base": {
+                    "DS": 68.0,
+                    "Success": 100.0,
+                    "HM": 80.9,
+                    "Count": 5
+                },
+                "Generalization": {
+                    "DS": 44.5,
+                    "Success": 40.0,
+                    "HM": 42.1,
+                    "Count": 5
+                },
+                "Gen HM Rel %": -48.0
+            },
+            {
+                "Scenario": "CustomObstacles",
+                "Class": "Visual-lat",
+                "Base": {
+                    "DS": 60.3,
+                    "Success": 90.0,
+                    "HM": 72.3,
+                    "Count": 10
+                },
+                "Generalization": {
+                    "DS": 45.9,
+                    "Success": 10.0,
+                    "HM": 16.4,
+                    "Count": 10
+                },
+                "Gen HM Rel %": -77.3
+            },
+            {
+                "Scenario": "ObscuredStop",
+                "Class": "Visual-lon",
+                "Base": {
+                    "DS": 70.0,
+                    "Success": 60.0,
+                    "HM": 64.6,
+                    "Count": 5
+                },
+                "Generalization": {
+                    "DS": 74.1,
+                    "Success": 60.0,
+                    "HM": 66.3,
+                    "Count": 5
+                },
+                "Gen HM Rel %": 2.6
+            },
+            {
+                "Scenario": "HardBrake",
+                "Class": "Visual-lon",
+                "Base": {
+                    "DS": 75.7,
+                    "Success": 80.0,
+                    "HM": 77.8,
+                    "Count": 5
+                },
+                "Generalization": {
+                    "DS": 69.7,
+                    "Success": 60.0,
+                    "HM": 64.5,
+                    "Count": 5
+                },
+                "Gen HM Rel %": -17.1
+            },
+            {
+                "Scenario": "RightOfWay",
+                "Class": "Visual-lon",
+                "Base": {
+                    "DS": 87.0,
+                    "Success": 80.0,
+                    "HM": 83.4,
+                    "Count": 5
+                },
+                "Generalization": {
+                    "DS": 74.5,
+                    "Success": 40.0,
+                    "HM": 52.1,
+                    "Count": 5
+                },
+                "Gen HM Rel %": -37.5
+            },
+            {
+                "Scenario": "Animals",
+                "Class": "Visual-lon",
+                "Base": {
+                    "DS": 76.8,
+                    "Success": 70.0,
+                    "HM": 73.2,
+                    "Count": 10
+                },
+                "Generalization": {
+                    "DS": 70.0,
+                    "Success": 60.0,
+                    "HM": 64.6,
+                    "Count": 10
+                },
+                "Gen HM Rel %": -11.7
+            },
+            {
+                "Scenario": "PedestrianOtherBlocker",
+                "Class": "Visual-lon",
+                "Base": {
+                    "DS": 58.6,
+                    "Success": 60.0,
+                    "HM": 59.3,
+                    "Count": 5
+                },
+                "Generalization": {
+                    "DS": 67.0,
+                    "Success": 60.0,
+                    "HM": 63.3,
+                    "Count": 5
+                },
+                "Gen HM Rel %": 6.7
+            },
+            {
+                "Scenario": "RightConstruction",
+                "Class": "Robustness",
+                "Base": {
+                    "DS": 87.5,
+                    "Success": 80.0,
+                    "HM": 83.6,
+                    "Count": 5
+                },
+                "Generalization": {
+                    "DS": 79.6,
+                    "Success": 80.0,
+                    "HM": 79.8,
+                    "Count": 5
+                },
+                "Gen HM Rel %": -4.5
+            },
+            {
+                "Scenario": "OppositeConstruction",
+                "Class": "Robustness",
+                "Base": {
+                    "DS": 99.2,
+                    "Success": 100.0,
+                    "HM": 99.6,
+                    "Count": 5
+                },
+                "Generalization": {
+                    "DS": 98.9,
+                    "Success": 100.0,
+                    "HM": 99.5,
+                    "Count": 5
+                },
+                "Gen HM Rel %": -0.1
+            },
+            {
+                "Scenario": "ImageOnObject",
+                "Class": "Robustness",
+                "Base": {
+                    "DS": 59.6,
+                    "Success": 100.0,
+                    "HM": 74.7,
+                    "Count": 5
+                },
+                "Generalization": {
+                    "DS": 73.0,
+                    "Success": 100.0,
+                    "HM": 84.4,
+                    "Count": 5
+                },
+                "Gen HM Rel %": 13.0
+            },
+            {
+                "Scenario": "PassableObstacles",
+                "Class": "Robustness",
+                "Base": {
+                    "DS": 96.5,
+                    "Success": 100.0,
+                    "HM": 98.2,
+                    "Count": 5
+                },
+                "Generalization": {
+                    "DS": 93.5,
+                    "Success": 100.0,
+                    "HM": 96.7,
+                    "Count": 5
+                },
+                "Gen HM Rel %": -1.5
+            },
+            {
+                "Scenario": "PedestrianCrowd",
+                "Class": "Robustness",
+                "Base": {
+                    "DS": 57.7,
+                    "Success": 80.0,
+                    "HM": 67.0,
+                    "Count": 5
+                },
+                "Generalization": {
+                    "DS": 52.1,
+                    "Success": 80.0,
+                    "HM": 63.1,
+                    "Count": 5
+                },
+                "Gen HM Rel %": -5.8
+            }
+        ],
+        "classes": [
+            {
+                "Class": "Visual-lon",
+                "Base": {
+                    "DS": 74.1,
+                    "Success": 70.0,
+                    "HM": 72.0,
+                    "Count": 30
+                },
+                "Generalization": {
+                    "DS": 70.9,
+                    "Success": 56.7,
+                    "HM": 63.0,
+                    "Count": 30
+                },
+                "Gen HM Rel %": -12.5
+            },
+            {
+                "Class": "Visual-lat",
+                "Base": {
+                    "DS": 73.7,
+                    "Success": 96.0,
+                    "HM": 83.4,
+                    "Count": 25
+                },
+                "Generalization": {
+                    "DS": 48.9,
+                    "Success": 36.0,
+                    "HM": 41.5,
+                    "Count": 25
+                },
+                "Gen HM Rel %": -50.2
+            },
+            {
+                "Class": "Behavior",
+                "Base": {
+                    "DS": 77.5,
+                    "Success": 80.0,
+                    "HM": 78.7,
+                    "Count": 20
+                },
+                "Generalization": {
+                    "DS": 62.9,
+                    "Success": 50.0,
+                    "HM": 55.7,
+                    "Count": 20
+                },
+                "Gen HM Rel %": -29.2
+            },
+            {
+                "Class": "Robustness",
+                "Base": {
+                    "DS": 80.1,
+                    "Success": 92.0,
+                    "HM": 85.6,
+                    "Count": 25
+                },
+                "Generalization": {
+                    "DS": 79.4,
+                    "Success": 92.0,
+                    "HM": 85.2,
+                    "Count": 25
+                },
+                "Gen HM Rel %": -0.5
+            }
+        ],
+        "unmapped_records": [],
+        "parsed_records": 200,
+        "total_records": 200
+    },
+    "status_counts": {
+        "Perfect": 25,
+        "Failed": 37,
+        "Completed": 138
+    },
+    "scenario_count": 200
+}

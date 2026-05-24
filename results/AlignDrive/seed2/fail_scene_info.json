@@ -1,0 +1,1519 @@
+[
+    {
+        "route_id": "RouteScenario_3_rep0",
+        "save_name": "RouteScenario_3_rep0_Town13_Base_ConstructionPedestrian_0011_05_15_11_06_45",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "Failed": "Failed"
+    },
+    {
+        "route_id": "RouteScenario_5_rep0",
+        "save_name": "RouteScenario_5_rep0_Town13_Base_CustomObstacles_0023_05_15_11_33_25",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [
+            "Agent collided against object with type=vehicle.lincoln.mkz_2017 and id=5364 at (x=1100.369, y=5097.05, z=162.111)"
+        ],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "Failed": "Failed"
+    },
+    {
+        "route_id": "RouteScenario_6_rep0",
+        "save_name": "RouteScenario_6_rep0_Town13_Base_CustomObstacles_0029_05_15_11_49_43",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "Failed": "Failed"
+    },
+    {
+        "route_id": "RouteScenario_8_rep0",
+        "save_name": "RouteScenario_8_rep0_Town13_Base_ImageOnObject_0041_05_15_12_17_48",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [
+            "Agent collided against object with type=vehicle.chevrolet.impala and id=5472 at (x=-4102.68, y=-391.385, z=170.005)"
+        ],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [
+            "Agent went outside its route lanes for about 14.173 meters (18.54% of the completed route)"
+        ],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "Failed": "Failed"
+    },
+    {
+        "route_id": "RouteScenario_12_rep0",
+        "save_name": "RouteScenario_12_rep0_Town13_Base_PedestrianOtherBlocker_0070_05_15_12_53_13",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [
+            "Agent went outside its route lanes for about 1.0 meters (1.96% of the completed route)"
+        ],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "Failed": "Failed"
+    },
+    {
+        "route_id": "RouteScenario_15_rep0",
+        "save_name": "RouteScenario_15_rep0_Town13_Base_RightOfWay_0058_05_15_13_21_34",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "Failed": "Failed"
+    },
+    {
+        "route_id": "RouteScenario_17_rep0",
+        "save_name": "RouteScenario_17_rep0_Town13_Generalization_Animals_1080_05_15_13_43_39",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "Failed": "Failed"
+    },
+    {
+        "route_id": "RouteScenario_18_rep0",
+        "save_name": "RouteScenario_18_rep0_Town13_Generalization_BadParking_1001_05_15_14_01_34",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [
+            "Agent collided against object with type=vehicle.ford.crown and id=5770 at (x=3098.467, y=2812.034, z=183.792)",
+            "Agent collided against object with type=vehicle.ford.crown and id=5770 at (x=3094.075, y=2814.456, z=183.773)"
+        ],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "Failed": "Failed"
+    },
+    {
+        "route_id": "RouteScenario_20_rep0",
+        "save_name": "RouteScenario_20_rep0_Town13_Generalization_ConstructionPedestrian_1013_05_15_14_27_57",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "Failed": "Failed"
+    },
+    {
+        "route_id": "RouteScenario_21_rep0",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [
+            "Agent collided against object with type=vehicle.audi.tt and id=5982 at (x=-5814.501, y=1087.552, z=159.165)",
+            "Agent collided against object with type=vehicle.audi.tt and id=5984 at (x=-5781.587, y=993.329, z=158.318)"
+        ],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_21_rep0_Town13_Generalization_ConstructionPermutations_1019_05_15_14_44_58"
+    },
+    {
+        "route_id": "RouteScenario_22_rep0",
+        "collisions_layout": [
+            "Agent collided against object with type=static.prop.shoppingcart and id=5996 at (x=3198.078, y=5537.946, z=169.043)"
+        ],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_22_rep0_Town13_Generalization_CustomObstacles_1025_05_15_14_52_21"
+    },
+    {
+        "route_id": "RouteScenario_23_rep0",
+        "collisions_layout": [
+            "Agent collided against object with type=static.prop.haybale and id=6047 at (x=-3302.098, y=1877.598, z=159.771)"
+        ],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_23_rep0_Town13_Generalization_FullyBlocked_1031_05_15_14_58_52"
+    },
+    {
+        "route_id": "RouteScenario_26_rep0",
+        "save_name": "RouteScenario_26_rep0_Town13_Generalization_ObscuredStop_1049_05_15_15_24_53",
+        "collisions_layout": [
+            "Agent collided against object with type=static.building and id=0 at (x=6438.212, y=3067.021, z=162.437)"
+        ],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [
+            "Agent went outside its route lanes for about 96.767 meters (43.83% of the completed route)"
+        ],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "Failed": "Failed"
+    },
+    {
+        "route_id": "RouteScenario_28_rep0",
+        "save_name": "RouteScenario_28_rep0_Town13_Generalization_PedestrianCrowd_1066_05_15_15_45_48",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "Failed": "Failed"
+    },
+    {
+        "route_id": "RouteScenario_31_rep0",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [
+            "Agent collided against object with type=vehicle.mini.cooper_s_2021 and id=6448 at (x=-5036.691, y=48.219, z=160.884)",
+            "Agent collided against object with type=vehicle.mini.cooper_s_2021 and id=6448 at (x=-5032.16, y=68.894, z=160.801)"
+        ],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_31_rep0_Town13_Generalization_RightConstruction_1094_05_15_16_12_45"
+    },
+    {
+        "route_id": "RouteScenario_32_rep0",
+        "collisions_layout": [
+            "Agent collided against object with type=static.prop.brickwall and id=6468 at (x=2873.177, y=5143.989, z=171.56)"
+        ],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_32_rep0_Town13_Generalization_Wall_1095_05_15_16_20_20"
+    },
+    {
+        "route_id": "RouteScenario_0_rep0",
+        "collisions_layout": [],
+        "collisions_pedestrian": [
+            "Agent collided against object with type=walker.pedestrian.0030 and id=4709 at (x=6088.212, y=3330.274, z=158.916)",
+            "Agent collided against object with type=walker.pedestrian.0030 and id=4709 at (x=6088.212, y=3330.274, z=158.916)"
+        ],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_0_rep0_Town13_Base_Animals_0076_05_15_10_45_25"
+    },
+    {
+        "route_id": "RouteScenario_4_rep0",
+        "save_name": "RouteScenario_4_rep0_Town13_Base_ConstructionPermutations_0015_05_15_11_15_31",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [
+            "Agent collided against object with type=vehicle.dodge.charger_2020 and id=5465 at (x=-2153.751, y=2249.196, z=154.501)"
+        ],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "Failed": "Failed"
+    },
+    {
+        "route_id": "RouteScenario_5_rep0",
+        "save_name": "RouteScenario_5_rep0_Town13_Base_CustomObstacles_0021_05_15_11_33_36",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "Failed": "Failed"
+    },
+    {
+        "route_id": "RouteScenario_6_rep0",
+        "save_name": "RouteScenario_6_rep0_Town13_Base_CustomObstacles_0027_05_15_11_51_09",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [
+            "Agent collided against object with type=vehicle.dodge.charger_2020 and id=5535 at (x=3602.741, y=4451.634, z=173.338)"
+        ],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "Failed": "Failed"
+    },
+    {
+        "route_id": "RouteScenario_9_rep0",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [
+            "Agent ran a stop with id=1099 at (x=-1264.489, y=-146.586, z=152.437)"
+        ],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_9_rep0_Town13_Base_ObscuredStop_0045_05_15_12_27_12"
+    },
+    {
+        "route_id": "RouteScenario_22_rep0",
+        "collisions_layout": [
+            "Agent collided against object with type=static.prop.guitarcase and id=5998 at (x=1104.462, y=5097.683, z=162.105)"
+        ],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_22_rep0_Town13_Generalization_CustomObstacles_1023_05_15_13_54_27"
+    },
+    {
+        "route_id": "RouteScenario_23_rep0",
+        "collisions_layout": [
+            "Agent collided against object with type=static.prop.trampoline and id=6030 at (x=199.25, y=-2862.763, z=157.801)"
+        ],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_23_rep0_Town13_Generalization_CustomObstacles_1029_05_15_14_00_53"
+    },
+    {
+        "route_id": "RouteScenario_24_rep0",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [
+            "Agent collided against object with type=vehicle.nissan.patrol_2021 and id=6087 at (x=-5505.38, y=191.108, z=159.669)"
+        ],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_24_rep0_Town13_Generalization_HardBrake_1035_05_15_14_13_55"
+    },
+    {
+        "route_id": "RouteScenario_25_rep0",
+        "save_name": "RouteScenario_25_rep0_Town13_Generalization_ImageOnObject_1041_05_15_14_25_11",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [
+            "Agent went outside its route lanes for about 15.105 meters (20.3% of the completed route)"
+        ],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "Failed": "Failed"
+    },
+    {
+        "route_id": "RouteScenario_29_rep0",
+        "save_name": "RouteScenario_29_rep0_Town13_Generalization_PedestrianOtherBlocker_1070_05_15_15_00_41",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [
+            "Agent went outside its route lanes for about 1.0 meters (1.88% of the completed route)"
+        ],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "Failed": "Failed"
+    },
+    {
+        "route_id": "RouteScenario_33_rep0",
+        "collisions_layout": [
+            "Agent collided against object with type=static.prop.autobahn and id=5030 at (x=5965.221, y=5222.581, z=165.481)"
+        ],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_33_rep0_Town13_Generalization_Wall_1099_05_15_15_44_40"
+    },
+    {
+        "route_id": "RouteScenario_0_rep0",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [
+            "Agent ran a stop with id=53 at (x=-1571.594, y=605.218, z=156.919)"
+        ],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_0_rep0_Town13_Base_Animals_0080_05_15_10_45_03"
+    },
+    {
+        "route_id": "RouteScenario_3_rep0",
+        "save_name": "RouteScenario_3_rep0_Town13_Base_ConstructionPedestrian_0013_05_15_11_10_30",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [
+            "Agent collided against object with type=vehicle.lincoln.mkz_2017 and id=4953 at (x=7048.984, y=3783.895, z=175.363)"
+        ],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [
+            "Agent went outside its route lanes for about 13.001 meters (9.21% of the completed route)"
+        ],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "Failed": "Failed"
+    },
+    {
+        "route_id": "RouteScenario_4_rep0",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [
+            "Agent collided against object with type=vehicle.ford.mustang and id=5028 at (x=-5839.196, y=1150.919, z=159.856)",
+            "Agent collided against object with type=vehicle.ford.mustang and id=5046 at (x=-5754.235, y=915.021, z=157.774)"
+        ],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_4_rep0_Town13_Base_ConstructionPermutations_0019_05_15_11_27_59"
+    },
+    {
+        "route_id": "RouteScenario_5_rep0",
+        "save_name": "RouteScenario_5_rep0_Town13_Base_CustomObstacles_0025_05_15_11_36_23",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [
+            "Agent collided against object with type=vehicle.lincoln.mkz_2020 and id=5051 at (x=3199.096, y=5538.75, z=169.054)"
+        ],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "Failed": "Failed"
+    },
+    {
+        "route_id": "RouteScenario_7_rep0",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [
+            "Agent collided against object with type=vehicle.dodge.charger_2020 and id=5205 at (x=4658.439, y=2707.019, z=146.659)"
+        ],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_7_rep0_Town13_Base_HardBrake_0037_05_15_12_02_04"
+    },
+    {
+        "route_id": "RouteScenario_9_rep0",
+        "save_name": "RouteScenario_9_rep0_Town13_Base_ObscuredStop_0049_05_15_12_20_26",
+        "collisions_layout": [
+            "Agent collided against object with type=static.building and id=0 at (x=6438.593, y=3066.711, z=162.434)"
+        ],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [
+            "Agent went outside its route lanes for about 81.55 meters (37.11% of the completed route)"
+        ],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "Failed": "Failed"
+    },
+    {
+        "route_id": "RouteScenario_11_rep0",
+        "save_name": "RouteScenario_11_rep0_Town13_Base_PedestrianCrowd_0066_05_15_12_44_59",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "Failed": "Failed"
+    },
+    {
+        "route_id": "RouteScenario_16_rep0",
+        "collisions_layout": [],
+        "collisions_pedestrian": [
+            "Agent collided against object with type=walker.animal.1007 and id=5528 at (x=6088.539, y=3330.507, z=158.921)",
+            "Agent collided against object with type=walker.animal.1007 and id=5528 at (x=6088.539, y=3330.507, z=158.921)"
+        ],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_16_rep0_Town13_Generalization_Animals_1076_05_15_13_23_13"
+    },
+    {
+        "route_id": "RouteScenario_19_rep0",
+        "save_name": "RouteScenario_19_rep0_Town13_Generalization_BadParking_1009_05_15_13_47_02",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "Failed": "Failed"
+    },
+    {
+        "route_id": "RouteScenario_20_rep0",
+        "collisions_layout": [
+            "Agent collided against object with type=static.prop.dirtdebris02 and id=5669 at (x=-2148.355, y=2245.806, z=154.562)",
+            "Agent collided against object with type=static.prop.constructioncone and id=5674 at (x=-2146.909, y=2240.637, z=154.575)",
+            "Agent collided against object with type=static.road and id=0 at (x=-2145.745, y=2233.496, z=155.187)"
+        ],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_20_rep0_Town13_Generalization_ConstructionPermutations_1015_05_15_14_05_16"
+    },
+    {
+        "route_id": "RouteScenario_21_rep0",
+        "collisions_layout": [
+            "Agent collided against object with type=static.prop.slide and id=5711 at (x=2865.496, y=3139.167, z=180.341)",
+            "Agent collided against object with type=static.prop.slide and id=5711 at (x=2897.824, y=3139.548, z=181.015)"
+        ],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_21_rep0_Town13_Generalization_CustomObstacles_1021_05_15_14_15_17"
+    },
+    {
+        "route_id": "RouteScenario_22_rep0",
+        "collisions_layout": [
+            "Agent collided against object with type=static.prop.bin and id=5736 at (x=3606.837, y=4452.96, z=173.103)"
+        ],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_22_rep0_Town13_Generalization_CustomObstacles_1027_05_15_14_20_23"
+    },
+    {
+        "route_id": "RouteScenario_25_rep0",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [
+            "Agent collided against object with type=vehicle.chevrolet.impala and id=5818 at (x=-1132.322, y=-144.945, z=151.514)"
+        ],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_25_rep0_Town13_Generalization_ObscuredStop_1045_05_15_14_47_56"
+    },
+    {
+        "route_id": "RouteScenario_29_rep0",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [
+            "Agent collided against object with type=vehicle.mini.cooper_s_2021 and id=5998 at (x=3069.351, y=2985.546, z=183.665)"
+        ],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_29_rep0_Town13_Generalization_PedestrianOtherBlocker_1074_05_15_15_10_59"
+    },
+    {
+        "route_id": "RouteScenario_32_rep0",
+        "collisions_layout": [
+            "Agent collided against object with type=static.prop.autobahn and id=6086 at (x=-3358.111, y=4926.083, z=171.134)"
+        ],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_32_rep0_Town13_Generalization_Wall_1097_05_15_15_32_07"
+    },
+    {
+        "route_id": "RouteScenario_0_rep0",
+        "collisions_layout": [],
+        "collisions_pedestrian": [
+            "Agent collided against object with type=walker.pedestrian.0048 and id=4710 at (x=-4212.991, y=5612.823, z=174.311)"
+        ],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_0_rep0_Town13_Base_Animals_0077_05_15_10_45_12"
+    },
+    {
+        "route_id": "RouteScenario_2_rep0",
+        "collisions_layout": [
+            "Agent collided against object with type=static.terrain and id=0 at (x=916.65, y=-424.159, z=148.778)"
+        ],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [
+            "Agent collided against object with type=vehicle.chevrolet.impala and id=4920 at (x=1049.083, y=-188.834, z=148.399)",
+            "Agent collided against object with type=vehicle.mercedes.coupe_2020 and id=4928 at (x=1003.436, y=-280.163, z=148.494)"
+        ],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [
+            "Agent went outside its route lanes for about 63.169 meters (16.19% of the completed route)"
+        ],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_2_rep0_Town13_Base_BadParking_0004_05_15_10_57_52"
+    },
+    {
+        "route_id": "RouteScenario_3_rep0",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [
+            "Agent collided against object with type=vehicle.lincoln.mkz_2020 and id=5004 at (x=-3979.167, y=5891.161, z=175.212)"
+        ],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_3_rep0_Town13_Base_ConstructionPedestrian_0010_05_15_11_08_23"
+    },
+    {
+        "route_id": "RouteScenario_5_rep0",
+        "save_name": "RouteScenario_5_rep0_Town13_Base_CustomObstacles_0022_05_15_11_25_03",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [
+            "Agent collided against object with type=vehicle.mini.cooper_s_2021 and id=5146 at (x=5979.676, y=4763.499, z=166.101)"
+        ],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "Failed": "Failed"
+    },
+    {
+        "route_id": "RouteScenario_8_rep0",
+        "save_name": "RouteScenario_8_rep0_Town13_Base_ImageOnObject_0040_05_15_11_57_59",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [
+            "Agent went outside its route lanes for about 9.188 meters (42.72% of the completed route)"
+        ],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "Failed": "Failed"
+    },
+    {
+        "route_id": "RouteScenario_12_rep0",
+        "collisions_layout": [
+            "Agent collided against object with type=static.prop.constructioncone and id=5340 at (x=2914.829, y=5145.488, z=172.631)"
+        ],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_12_rep0_Town13_Base_PedestrianCrowd_0069_05_15_12_32_13"
+    },
+    {
+        "route_id": "RouteScenario_15_rep0",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [
+            "Agent went outside its route lanes for about 4.316 meters (2.69% of the completed route)"
+        ],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_15_rep0_Town13_Base_RightOfWay_0057_05_15_12_51_37"
+    },
+    {
+        "route_id": "RouteScenario_17_rep0",
+        "collisions_layout": [
+            "Agent collided against object with type=traffic.traffic_light and id=1284 at (x=2233.256, y=536.203, z=159.066)",
+            "Agent collided against object with type=traffic.traffic_light and id=1284 at (x=2233.256, y=536.203, z=159.066)"
+        ],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [
+            "Agent went outside its route lanes for about 4.424 meters (3.13% of the completed route)"
+        ],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_17_rep0_Town13_Generalization_Animals_1079_05_15_13_05_45"
+    },
+    {
+        "route_id": "RouteScenario_19_rep0",
+        "save_name": "RouteScenario_19_rep0_Town13_Generalization_BadParking_1006_05_15_13_20_28",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "Failed": "Failed"
+    },
+    {
+        "route_id": "RouteScenario_22_rep0",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [
+            "Agent collided against object with type=vehicle.lincoln.mkz_2020 and id=5731 at (x=-4316.965, y=-2853.046, z=176.215)"
+        ],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_22_rep0_Town13_Generalization_CustomObstacles_1024_05_15_13_53_11"
+    },
+    {
+        "route_id": "RouteScenario_23_rep0",
+        "save_name": "RouteScenario_23_rep0_Town13_Generalization_FullyBlocked_1030_05_15_14_04_38",
+        "collisions_layout": [
+            "Agent collided against object with type=static.fence and id=0 at (x=-4614.388, y=3280.317, z=185.045)",
+            "Agent collided against object with type=static.fence and id=0 at (x=-4613.958, y=3274.934, z=185.059)",
+            "Agent collided against object with type=static.fence and id=0 at (x=-4614.12, y=3269.854, z=185.075)"
+        ],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "Failed": "Failed"
+    },
+    {
+        "route_id": "RouteScenario_26_rep0",
+        "save_name": "RouteScenario_26_rep0_Town13_Generalization_ObscuredStop_1048_05_15_14_41_41",
+        "collisions_layout": [
+            "Agent collided against object with type=traffic.stop and id=739 at (x=-1927.64, y=-333.726, z=160.919)"
+        ],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "Failed": "Failed"
+    },
+    {
+        "route_id": "RouteScenario_5_rep0",
+        "save_name": "RouteScenario_5_rep0_Town13_Base_CustomObstacles_0020_05_15_11_16_09",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [
+            "Agent collided against object with type=vehicle.mercedes.coupe_2020 and id=5027 at (x=-4097.253, y=4491.066, z=172.499)"
+        ],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "Failed": "Failed"
+    },
+    {
+        "route_id": "RouteScenario_13_rep0",
+        "collisions_layout": [],
+        "collisions_pedestrian": [
+            "Agent collided against object with type=walker.pedestrian.0019 and id=5284 at (x=3545.458, y=3629.77, z=166.558)"
+        ],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_13_rep0_Town13_Base_PedestrianOtherBlocker_0073_05_15_12_21_13"
+    },
+    {
+        "route_id": "RouteScenario_15_rep0",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [
+            "Agent collided against object with type=vehicle.ford.ambulance and id=5336 at (x=3397.351, y=5531.837, z=169.76)"
+        ],
+        "red_light": [
+            "Agent ran a red light 2119 at (x=3385.119, y=5544.122, z=169.818)"
+        ],
+        "stop_infraction": [],
+        "outside_route_lanes": [
+            "Agent went outside its route lanes for about 1.227 meters (0.69% of the completed route)"
+        ],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_15_rep0_Town13_Base_RightOfWay_0055_05_15_12_34_33"
+    },
+    {
+        "route_id": "RouteScenario_16_rep0",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [
+            "Agent collided against object with type=vehicle.ford.mustang and id=5396 at (x=2740.132, y=-575.56, z=159.977)"
+        ],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_16_rep0_Town13_Base_Wall_0096_05_15_12_40_36"
+    },
+    {
+        "route_id": "RouteScenario_17_rep0",
+        "collisions_layout": [],
+        "collisions_pedestrian": [
+            "Agent collided against object with type=walker.animal.1008 and id=5416 at (x=-4213.252, y=5612.809, z=174.314)"
+        ],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_17_rep0_Town13_Generalization_Animals_1077_05_15_12_46_46"
+    },
+    {
+        "route_id": "RouteScenario_18_rep0",
+        "collisions_layout": [],
+        "collisions_pedestrian": [
+            "Agent collided against object with type=walker.animal.1013 and id=5440 at (x=5684.371, y=3072.187, z=155.505)"
+        ],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_18_rep0_Town13_Generalization_Animals_1083_05_15_12_51_37"
+    },
+    {
+        "route_id": "RouteScenario_19_rep0",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [
+            "Agent went outside its route lanes for about 54.145 meters (13.88% of the completed route)"
+        ],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_19_rep0_Town13_Generalization_BadParking_1004_05_15_12_58_35"
+    },
+    {
+        "route_id": "RouteScenario_20_rep0",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [
+            "Agent collided against object with type=vehicle.lincoln.mkz_2020 and id=5604 at (x=-3979.681, y=5891.154, z=175.22)"
+        ],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_20_rep0_Town13_Generalization_ConstructionPedestrian_1010_05_15_13_07_50"
+    },
+    {
+        "route_id": "RouteScenario_21_rep0",
+        "collisions_layout": [
+            "Agent collided against object with type=static.prop.trafficwarning and id=5622 at (x=2884.034, y=1483.394, z=170.632)"
+        ],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_21_rep0_Town13_Generalization_ConstructionPermutations_1016_05_15_13_16_26"
+    },
+    {
+        "route_id": "RouteScenario_22_rep0",
+        "save_name": "RouteScenario_22_rep0_Town13_Generalization_CustomObstacles_1022_05_15_13_25_05",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "Failed": "Failed"
+    },
+    {
+        "route_id": "RouteScenario_23_rep0",
+        "collisions_layout": [
+            "Agent collided against object with type=static.prop.box03 and id=5693 at (x=4383.046, y=1974.771, z=154.855)",
+            "Agent collided against object with type=static.road and id=0 at (x=4377.534, y=1974.759, z=155.503)"
+        ],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_23_rep0_Town13_Generalization_CustomObstacles_1028_05_15_13_42_59"
+    },
+    {
+        "route_id": "RouteScenario_24_rep0",
+        "collisions_layout": [
+            "Agent collided against object with type=static.prop.streetbarrier and id=5730 at (x=3682.26, y=4814.212, z=171.924)"
+        ],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [
+            "Agent went outside its route lanes for about 10.016 meters (4.44% of the completed route)"
+        ],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_24_rep0_Town13_Generalization_FullyBlocked_1034_05_15_13_50_56"
+    },
+    {
+        "route_id": "RouteScenario_25_rep0",
+        "save_name": "RouteScenario_25_rep0_Town13_Generalization_ImageOnObject_1040_05_15_13_57_30",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [
+            "Agent went outside its route lanes for about 11.23 meters (49.85% of the completed route)"
+        ],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "Failed": "Failed"
+    },
+    {
+        "route_id": "RouteScenario_29_rep0",
+        "save_name": "RouteScenario_29_rep0_Town13_Generalization_PedestrianCrowd_1069_05_15_14_32_52",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "Failed": "Failed"
+    },
+    {
+        "route_id": "RouteScenario_32_rep0",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [
+            "Agent went outside its route lanes for about 4.316 meters (2.69% of the completed route)"
+        ],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_32_rep0_Town13_Generalization_RightOfWay_1057_05_15_15_04_52"
+    },
+    {
+        "route_id": "RouteScenario_33_rep0",
+        "collisions_layout": [
+            "Agent collided against object with type=static.prop.screenshot1 and id=6085 at (x=2336.197, y=577.877, z=160.616)"
+        ],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_33_rep0_Town13_Generalization_Wall_1098_05_15_15_09_46"
+    },
+    {
+        "route_id": "RouteScenario_0_rep0",
+        "save_name": "RouteScenario_0_rep0_Town13_Base_Animals_0079_05_15_10_59_42",
+        "collisions_layout": [
+            "Agent collided against object with type=static.prop.mesh and id=4737 at (x=2237.341, y=474.339, z=159.077)"
+        ],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "Failed": "Failed"
+    },
+    {
+        "route_id": "RouteScenario_1_rep0",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [
+            "Agent collided against object with type=vehicle.nissan.patrol_2021 and id=5021 at (x=5603.694, y=5405.765, z=158.109)"
+        ],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_1_rep0_Town13_Base_BadParking_0000_05_15_11_18_37"
+    },
+    {
+        "route_id": "RouteScenario_2_rep0",
+        "save_name": "RouteScenario_2_rep0_Town13_Base_BadParking_0006_05_15_11_25_32",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "Failed": "Failed"
+    },
+    {
+        "route_id": "RouteScenario_3_rep0",
+        "collisions_layout": [
+            "Agent collided against object with type=static.prop.constructioncone and id=5123 at (x=2406.525, y=1079.724, z=161.243)"
+        ],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_3_rep0_Town13_Base_ConstructionPedestrian_0012_05_15_11_43_07"
+    },
+    {
+        "route_id": "RouteScenario_5_rep0",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [
+            "Agent collided against object with type=vehicle.mercedes.coupe_2020 and id=5336 at (x=-4182.789, y=-2852.013, z=172.343)"
+        ],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_5_rep0_Town13_Base_CustomObstacles_0024_05_15_11_58_30"
+    },
+    {
+        "route_id": "RouteScenario_6_rep0",
+        "save_name": "RouteScenario_6_rep0_Town13_Base_FullyBlocked_0030_05_15_12_11_05",
+        "collisions_layout": [
+            "Agent collided against object with type=static.fence and id=0 at (x=-4614.452, y=3281.213, z=185.042)",
+            "Agent collided against object with type=static.fence and id=0 at (x=-4614.089, y=3276.221, z=185.064)",
+            "Agent collided against object with type=static.fence and id=0 at (x=-4613.697, y=3270.433, z=185.069)"
+        ],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "Failed": "Failed"
+    },
+    {
+        "route_id": "RouteScenario_9_rep0",
+        "save_name": "RouteScenario_9_rep0_Town13_Base_ObscuredStop_0048_05_15_12_48_30",
+        "collisions_layout": [
+            "Agent collided against object with type=traffic.speed_limit.30 and id=4574 at (x=-1936.655, y=-341.667, z=161.061)",
+            "Agent collided against object with type=static.fence and id=0 at (x=-1935.752, y=-354.143, z=160.923)"
+        ],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [
+            "Agent went outside its route lanes for about 19.358 meters (17.14% of the completed route)"
+        ],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "Failed": "Failed"
+    },
+    {
+        "route_id": "RouteScenario_12_rep0",
+        "collisions_layout": [],
+        "collisions_pedestrian": [
+            "Agent collided against object with type=walker.pedestrian.0040 and id=5617 at (x=-1855.725, y=5215.675, z=161.419)"
+        ],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_12_rep0_Town13_Base_PedestrianOtherBlocker_0071_05_15_13_18_21"
+    },
+    {
+        "route_id": "RouteScenario_15_rep0",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [
+            "Agent ran a stop with id=167 at (x=-3422.989, y=4345.817, z=179.745)"
+        ],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_15_rep0_Town13_Base_RightOfWay_0059_05_15_13_36_37"
+    },
+    {
+        "route_id": "RouteScenario_19_rep0",
+        "save_name": "RouteScenario_19_rep0_Town13_Generalization_BadParking_1008_05_15_13_58_32",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [
+            "Agent collided against object with type=vehicle.ford.ambulance and id=5862 at (x=-4026.609, y=5740.663, z=173.994)"
+        ],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "Failed": "Failed"
+    },
+    {
+        "route_id": "RouteScenario_21_rep0",
+        "save_name": "RouteScenario_21_rep0_Town13_Generalization_CustomObstacles_1020_05_15_14_24_54",
+        "collisions_layout": [
+            "Agent collided against object with type=static.prop.gnome and id=5939 at (x=-4094.287, y=4491.395, z=172.489)",
+            "Agent collided against object with type=static.prop.gnome and id=5940 at (x=-4094.379, y=4486.129, z=172.599)",
+            "Agent collided against object with type=static.prop.gnome and id=5941 at (x=-4094.4, y=4480.708, z=172.776)"
+        ],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "Failed": "Failed"
+    },
+    {
+        "route_id": "RouteScenario_22_rep0",
+        "collisions_layout": [
+            "Agent collided against object with type=static.prop.trafficcone01 and id=5979 at (x=-1191.374, y=5810.998, z=145.782)"
+        ],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_22_rep0_Town13_Generalization_CustomObstacles_1026_05_15_14_43_21"
+    },
+    {
+        "route_id": "RouteScenario_23_rep0",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [
+            "Agent collided against object with type=vehicle.carlamotors.firetruck and id=6013 at (x=598.042, y=-739.27, z=150.711)"
+        ],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_23_rep0_Town13_Generalization_FullyBlocked_1032_05_15_14_51_39"
+    },
+    {
+        "route_id": "RouteScenario_24_rep0",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [
+            "Agent collided against object with type=vehicle.mercedes.coupe_2020 and id=6061 at (x=5612.918, y=3982.875, z=158.718)"
+        ],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_24_rep0_Town13_Generalization_HardBrake_1038_05_15_15_08_26"
+    },
+    {
+        "route_id": "RouteScenario_31_rep0",
+        "collisions_layout": [],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [
+            "Agent collided against object with type=vehicle.kawasaki.ninja and id=6325 at (x=3396.736, y=5531.081, z=169.761)"
+        ],
+        "red_light": [
+            "Agent ran a red light 2119 at (x=3385.119, y=5544.122, z=169.818)"
+        ],
+        "stop_infraction": [],
+        "outside_route_lanes": [
+            "Agent went outside its route lanes for about 1.145 meters (0.64% of the completed route)"
+        ],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_31_rep0_Town13_Generalization_RightOfWay_1055_05_15_15_54_25"
+    },
+    {
+        "route_id": "RouteScenario_32_rep0",
+        "collisions_layout": [
+            "Agent collided against object with type=static.prop.screenshot2 and id=6362 at (x=2627.816, y=-603.024, z=157.709)"
+        ],
+        "collisions_pedestrian": [],
+        "collisions_vehicle": [],
+        "red_light": [],
+        "stop_infraction": [],
+        "outside_route_lanes": [],
+        "yield_emergency_vehicle_infractions": [],
+        "scenario_timeouts": [],
+        "route_dev": [],
+        "vehicle_blocked": [],
+        "route_timeout": [],
+        "save_name": "RouteScenario_32_rep0_Town13_Generalization_Wall_1096_05_15_16_00_30"
+    }
+]
